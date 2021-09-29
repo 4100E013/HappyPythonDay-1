@@ -53,12 +53,23 @@ b = 17 // 3
 c = 17 % 3
 
 a,b,c
+
+a=5.666666666666667
+b=5 取整數
+c=2 取餘數
 ```
 ### 邏輯運算 Logical Operators
 ### 範例:底下輸出為何? and why?
 ```
 x = 5
 print(x > 3 and x < 10)
+
+印出True
+
+因為x=5 
+故x>3判斷為True 
+x<10判斷也為True
+True and True = True
 ```
 ### 範例:底下輸出為何? and why?
 ```
